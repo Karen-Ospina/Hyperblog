@@ -6,6 +6,21 @@ body{
     margin: 0;
     padding: 0;
 }
+#cabecera
+{
+    background-color: teal;
+    font-size: 39px;
+    color: white;
+    margin: 1 auto;
+    border: 3 px solid #000;
+    font-style: oblique;
+
+}
+#conten
+{
+    font-size: 20px;
+    font-style: italic;
+}
 #container
 {
     width: 60%;
@@ -14,6 +29,7 @@ body{
     border: 1px solid #000;
     margin: 0 auto;
 }
+
 
 #container h1
 {
